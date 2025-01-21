@@ -1,3 +1,3 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/danilkashirin/danilkashirin/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/danilkashirin/danilkashirin/blob/output/github-snake-dark.svg)
 
 ![Metrics](/github-metrics.svg)
